@@ -1,0 +1,13 @@
+.card{
+    width: 550px;
+      /* width: 18rem; */
+}
+  
+body{
+     background-color: black;
+}
+
+.UserProfileComponent{
+    padding-top:300px;
+    padding-left:680px;
+}

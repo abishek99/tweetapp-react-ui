@@ -1,0 +1,36 @@
+.container{
+    width: 50px;
+    height: 50px;
+    /* Center vertically and horizontally */
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    margin: -25px 0 0 -25px;
+  }
+  
+  
+   .card{
+    width: 550px;
+      /*width: 18rem;*/
+    } 
+  
+   body{
+     background-color: black;
+   }
+  
+   #navigation{
+    height:10%
+   }
+  
+  /* #logoutbutton{
+    position:relative; 
+    left:1100px; 
+    top:15px;
+   }
+   */
+  
+  #nav-links{
+    position:absolute; 
+    left:230px; 
+    top:15px;
+   }
